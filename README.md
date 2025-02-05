@@ -2,18 +2,18 @@
 
 <h3> Welcome to this repository! 🎉 This repo contains all the course materials from my Master's in Computer Science at CSU East Bay, including: </h3>
 
-📝 Homework Assignments
-📂 Project Files
-📊 Quizzes
-🏆 Exam-Related Material
-💡 Study Resources & Notes
+📝 Homework Assignments <br>
+📂 Project Files <br>
+📊 Quizzes <br>
+🏆 Exam-Related Material <br>
+💡 Study Resources & Notes <br>
 
 <h3>This repository is intended to help students by providing study materials, reference solutions, and guidance for various subjects.
 🚀 How to Use </h3>
 
-    Browse through the folders to find relevant course materials.
-    Use them as reference for your own studies.
-    If you find this repository helpful, give it a ⭐!
+Browse through the folders to find relevant course materials.
+Use them as reference for your own studies.
+If you find this repository helpful, give it a ⭐!
 
 
 <h3>🤝 Contributing</h3>
