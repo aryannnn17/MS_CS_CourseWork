@@ -11,9 +11,9 @@
 <h3>This repository is intended to help students by providing study materials, reference solutions, and guidance for various subjects.
 🚀 How to Use </h3>
 
-Browse through the folders to find relevant course materials. <br>
-Use them as reference for your own studies. <br>
-If you find this repository helpful, give it a ⭐! <br>
+ - Browse through the folders to find relevant course materials. <br>
+ - Use them as reference for your own studies. <br>
+ - If you find this repository helpful, give it a ⭐! <br>
 
 <h3>🤝 Contributing</h3>
 
