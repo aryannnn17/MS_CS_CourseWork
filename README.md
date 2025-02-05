@@ -20,6 +20,7 @@
 If you'd like to add or update any material, feel free to fork the repo and submit a pull request.
 📢 Spread the Word!
 
-If you find this helpful, share it with your friends so they can benefit too!
-
+If you find this helpful, share it with your friends so they can benefit too! <br>
 Happy Learning! 💻🎓
+
+©️ copyright reserved aryannnn17, 2025
