@@ -24,5 +24,5 @@ If you find this helpful, share it with your friends so they can benefit too! <b
 Happy Learning! 💻🎓
 
 
-connect on <a href = "https://www.linkedin.com/in/aryanbhagat/">LinkedIn </a>
-©️ copyright reserved aryannnn17, 2025
+<strong>connect on <a href = "https://www.linkedin.com/in/aryanbhagat/">LinkedIn</a> <br>
+©️ copyright reserved aryannnn17, 2025 </strong>
