@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSUEB Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            color: #ffffff;
+        }
+
+        .login-container {
+            width: 300px;
+            margin: 100px auto;
+            background-color: #1c1c1c;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+            text-align: center;
+        }
+
+        .login-container h2 {
+            margin-bottom: 20px;
+        }
+
+        .login-container img {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+
+        .login-container input[type="text"],
+        input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #555;
+            background-color: #333;
+            color: #fff;
+        }
+
+        .login-container button {
+            width: 100%;
+            padding: 10px;
+            background-color: #ff0000;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .login-container button:hover {
+            background-color: #cc0000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="login-container">
+        <img src="https://www.csueastbay.edu/_global/images/header/new-csueb-logo/csueb-logo.png" alt="CSUEB Logo">
+        <h2>CSUEB Login</h2>
+        <form action="/send_otp" method="post">
+            <label for="netid">NetID</label>
+            <input type="text" id="netid" name="netid" placeholder="Enter your NetID" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+            <button type="submit">Send OTP</button>
+        </form>
+    </div>
+
+</body>
+
+</html>
